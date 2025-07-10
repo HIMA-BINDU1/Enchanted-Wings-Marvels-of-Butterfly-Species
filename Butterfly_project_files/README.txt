@@ -1,5 +1,5 @@
 =========================================================
-     🦋 Enchanted Wings: Butterfly Classification
+     🦋 Enchanted Wings: Butterfly Classification 
 =========================================================
 
 This project is a butterfly species classification system built using deep learning and a Flask web interface. It uses transfer learning (VGG16) to predict butterfly species from images.
