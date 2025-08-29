@@ -1,5 +1,5 @@
 =========================================================
-     🦋 Enchanted Wings: Butterfly Classification 
+ Enchanted Wings: Butterfly Classification 
 =========================================================
 
 This project is a butterfly species classification system built using deep learning and a Flask web interface. It uses transfer learning (VGG16) to predict butterfly species from images.
@@ -8,7 +8,7 @@ Model: Trained on 75 species, using VGG16
 Tech Stack: Python, TensorFlow, Keras, OpenCV, Flask, HTML/CSS
 
 =========================================================
-🔧 SETUP INSTRUCTIONS (One-Time Setup)
+SETUP INSTRUCTIONS (One-Time Setup)
 =========================================================
 
 STEP 1️: Install Anaconda (if not installed)
@@ -46,19 +46,19 @@ You should see something like:
 Open your browser and go to that address.
 
 =========================================================
-🧠 HOW TO USE
+HOW TO USE
 =========================================================
 
 1. Welcome page appears with animated background and a fun butterfly fact.
 2. Click "Upload Image" to go to the input page.
 3. Select a butterfly image and click "Predict".
 4. The model will analyze the image and show:
-    ✅ Predicted species
-    🖼️ Uploaded image preview
-    🎨 Stylish animated layout
+     Predicted species
+     Uploaded image preview
+     Stylish animated layout
 
 =========================================================
-🌐 OFFLINE USAGE
+ OFFLINE USAGE
 =========================================================
 
 This app is fully offline if:
@@ -70,7 +70,7 @@ This app is fully offline if:
 ✔ No fonts or images are pulled from online sources
 
 =========================================================
-📂 FOLDER STRUCTURE
+ FOLDER STRUCTURE
 =========================================================
 
 Butterfly_Project/
@@ -92,5 +92,6 @@ Butterfly_Project/
 
 
 =========================================================
-✨ ENJOY USING ENCHANTED WINGS 🦋
+ ENJOY USING ENCHANTED WINGS 
 =========================================================
+
